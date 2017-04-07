@@ -1,0 +1,9 @@
+Topic realated to (.htaccess) http://www.htaccess-guide.com/
+NGINX Server (directory listing) https://www.netsparker.com/web-vulnerability-scanner/vulnerability-security-checks-index/directory-listing-nginx/
+NGINX Server (directory listing) configuration http://nginx.org/en/docs/http/ngx_http_autoindex_module.html
+SSL(Why ssl?) https://www.sslshopper.com/why-ssl-the-purpose-of-using-ssl-certificates.html
+Clickjacking: X-Frame-Options header missing https://www.acunetix.com/vulnerabilities/web/clickjacking--x-frame-options-header-missing
+Robot.txt https://www.synopsys.com/blogs/software-security/robots-txt/ 
+Robot.txt https://tipstrickshack.blogspot.in/2012/11/how-to-exploit-robotstxt.html
+Robot.txt http://www.chami.com/tips/internet/040498I.html
+robot meta tags https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag
